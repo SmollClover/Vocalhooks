@@ -1,0 +1,10 @@
+{
+	"version": "1.0.0",
+	"name": "vocalhooks",
+	"dependencies": {
+		"@discordjs/collection": { "version": "0.5.0" },
+		"consola": { "version": "2.15.3" },
+		"express": { "version": "4.17.3" },
+		"glob": { "version": "7.2.0" }
+	}
+}

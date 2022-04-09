@@ -8,18 +8,18 @@
 
 ## ToDo List
 
--   [ ] Webserver
-    -   [ ] Start Express app
-    -   [ ] Listen on default Port 3000
-    -   [ ] Listen if action URL is called
+-   [x] Webserver
+    -   [x] Start Express app
+    -   [x] Listen on default Port 3000
+    -   [x] Listen if action URL is called
 -   [ ] Actions
     -   [ ] Have a Actions directory in project root
     -   [ ] One Action in each file
     -   [ ] Specify Name and Version in file
-    -   [ ] YAML File with a template one
+    -   [ ] TOML File with a template one
 -   [ ] Parser
-    -   [ ] Parse Action YAML
-    -   [ ] Parse Config YAML
+    -   [ ] Parse Action TOML
+    -   [ ] Parse Config TOML
 -   [ ] Config
     -   [ ] Load Config from project root
     -   [ ] Write default confg if not exist

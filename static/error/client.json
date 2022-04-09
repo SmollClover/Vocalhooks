@@ -1,0 +1,15 @@
+{
+	"400": ["Bad Request", ""],
+	"401": ["Unauthorized Access", ""],
+	"403": ["Forbidden", ""],
+	"404": ["Not Found", "Requested URI not found on Server"],
+	"405": ["Method Not Allowed", ""],
+	"406": ["Not Acceptable", ""],
+	"408": ["Request Timeout", ""],
+	"411": ["Length Required", ""],
+	"413": ["Payload Too Large", ""],
+	"414": ["URI Too Long", ""],
+	"417": ["Expectation Failed", ""],
+	"423": ["Locked", ""],
+	"429": ["Too Many Requests", ""]
+}
